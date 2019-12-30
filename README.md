@@ -1,2 +1,3 @@
 # ml-algos
- Implementation of all ML algorithms using suitable datasets
+ Implementation of ML algorithms using suitable datasets, data visualization examples are also included
+ 
